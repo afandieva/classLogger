@@ -44,7 +44,7 @@ int main() {
 
     return 0;
 }*/
-#include <iostream>
+/*#include <iostream>
 
 class C{
 public:
@@ -64,4 +64,4 @@ int main() {
     std::cout<<c1.x<<" "<<c1.sx<<" "<<c1.scx<<"\n";
     std::cout<<c2.x<<" "<<c2.sx<<" "<<c2.scx<<"\n";
 
-}
+}*/
